@@ -1,2 +1,2 @@
 # Deep-learning-
-Deep learning 강의(coding apple) 
+- Deep learning 강의(coding apple)등 
